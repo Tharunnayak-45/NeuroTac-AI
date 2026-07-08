@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="assets/logo.png" width="140" alt="NeuroTac AI Logo"/>
-
 # 🧠 NeuroTac AI
 
 ### Intelligent AI-Powered Tic-Tac-Toe Game
@@ -21,10 +17,19 @@ A modern Tic-Tac-Toe game featuring intelligent AI opponents, multiple difficult
 ## 📖 About
 
 **NeuroTac AI** is a modern AI-powered Tic-Tac-Toe game designed to provide an engaging and interactive experience. It combines responsive design, smooth animations, and intelligent gameplay with three AI difficulty levels.
-
 Whether you're a beginner looking for fun or someone wanting to challenge an unbeatable AI, NeuroTac AI offers an enjoyable experience across desktop and mobile devices.
 
 ---
+## 🌐 Live Website
+
+🚀 **NeuroTac AI Demo:**  
+🔗 [Click Here to Visit Website](https://neurotac.vercel.app/)
+
+## 🎥 Watch Demo
+
+▶️ **[Click Here to Watch NeuroTac AI Demo](https://github.com/user-attachments/assets/051bb345-7865-4cb4-a10a-d34732d4673b)**
+
+
 
 ## ✨ Features
 
@@ -52,18 +57,13 @@ Whether you're a beginner looking for fun or someone wanting to challenge an unb
 
 ## 📂 Project Structure
 NeuroTac-AI/
-
+```
 │
 ├── index.html
 ├── style.css
 ├── script.js
 ├── README.md
-└── LICENSE
 ```
-
-
----
-
 ## 🎯 AI Difficulty Levels
 
 | Difficulty | Description |
